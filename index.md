@@ -10,10 +10,12 @@ Here’s my employment history:
 - 1757 - 1765: Dixon Ticonderoga Inc
 #What am I looking for?
 I am looking for a role where I can use my _special point-and-mark skills_ to annotate research papers at academic institutions that offer certificate courses in the following areas: mythology, war games, and kite making.
-|Date|Company|
-|....|.......|
-|1886|Newell|
-|1781|Derwent|
+
+| Date  | Company |
+| ------------- | ------------- |
+| 1886  | Newell  |
+| 1781  | Derwent  |
+
 [My work samples](www.awandererspostcards.com)
 My work history includes employment with:
 1. Knack Systems
