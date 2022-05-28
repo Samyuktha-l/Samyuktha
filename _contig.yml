@@ -5,3 +5,5 @@
   author: samyuktha.lax@gmail.com 
   
   markdown: kramdown
+  
+  theme: minima
