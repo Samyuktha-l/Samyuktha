@@ -1,1 +1,9 @@
-
+ name: Samyuktha's website 
+	description: Work portfolio of Samyuktha
+	twitter_username: samyukthaell
+  github_username: samyuktha-l
+  author: samyuktha.lax@gmail.com 
+  
+  markdown: kramdown
+  
+  theme: minima
