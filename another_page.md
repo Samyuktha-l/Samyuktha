@@ -46,8 +46,7 @@ Before you begin, make sure you're within walking distance of the sea. Then, gat
 
     Term begins on 1 September. 
     
-    {{ site.description }}
-    
+     
     We await your owl by no later than 31 July.
 
  
@@ -67,3 +66,5 @@ Before you begin, make sure you're within walking distance of the sea. Then, gat
  
 
 The tide will carry the bottle out to the high sea and deposit it at the shore of the receiver. Wait for a reply.
+
+ {{ site.description }}
