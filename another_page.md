@@ -1,8 +1,7 @@
 ---
 nav_order: 2
+parent: index.md
 ---
-
-parent: index.md 
 
 # Sending bottled messages
 
@@ -46,6 +45,8 @@ Before you begin, make sure you're within walking distance of the sea. Then, gat
  
 
     Term begins on 1 September. 
+    
+    {{ site.description }}
     
     We await your owl by no later than 31 July.
 
